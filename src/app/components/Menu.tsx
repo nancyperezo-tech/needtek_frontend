@@ -28,7 +28,7 @@ export default function Menu() {
         {/* Logo a la izquierda (restaurado) */}
         <Link href="/" className="flex items-center gap-2 min-w-[120px] md:min-w-[320px]">
           <Image 
-            src="/logo/white/needtek_logo_it_white_removebg.png" 
+            src="/logo/white/needtek_logo_white_removebg.png" 
             alt="Needtek logo" 
             width={320} 
             height={106} 
